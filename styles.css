@@ -175,6 +175,10 @@ a.social:hover {
   padding-top: 50px;
 }
 
+.crowd {
+  border: 0;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
 
